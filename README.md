@@ -1,6 +1,6 @@
 This repository contains code used for quality control and data analysis presented in: 
 
-> **Langouet-Astrie CJ, Meinsen AL, Grunwald ER, Turner SD, Enke RA. RNA sequencing analysis of the developing chicken retina. _Scientific Data_ 2016. available at the [following link](https://www.nature.com/articles/sdata2016117)**
+> Langouet-Astrie CJ, Meinsen AL, Grunwald ER, Turner SD, Enke RA. RNA sequencing analysis of the developing chicken retina. [_Scientific Data_ (2016) 3:160117](https://www.nature.com/articles/sdata2016117).
 
 ----
 
